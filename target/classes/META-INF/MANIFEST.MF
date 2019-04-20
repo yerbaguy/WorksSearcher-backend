@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Implementation-Title: WorksSearcher
+Implementation-Title: WorksSearcherr
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: bartosz
-Implementation-Vendor-Id: com.ebartmedia.workssearcher
+Implementation-Vendor-Id: com.ebartmedia.workssearcherr
 Build-Jdk: 1.8.0_201
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/WorksSearcher
+ ot-starter-parent/WorksSearcherr
 Created-By: Maven Integration for Eclipse
 
